@@ -27,7 +27,7 @@ body {
 .link-decor:hover {
     background-color: white;
     color: var(--purple);
-    box-shadow: 5px 5px 10px lightgrey;
+    box-shadow: 5px 5px 10px grey;
 }
 
 p {
