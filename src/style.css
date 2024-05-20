@@ -1,0 +1,31 @@
+:root {
+    --purple: #a287f4;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+}
+
+.link {
+    justify-content: space-evenly;
+}
+
+.link-decor {
+    border: 1px solid var(--purple);
+    border-radius: 4px;
+    background-color: var(--purple);
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.link-decor:hover {
+    background-color: white;
+    color: var(--purple);
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+p {
+    text-align: center;
+}
