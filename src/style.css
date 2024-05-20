@@ -2,6 +2,10 @@
     --purple: #a287f4;
 }
 
+body {
+    background-color: gainsboro;
+}
+
 .flex-center {
     display: flex;
     justify-content: center;
